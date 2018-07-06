@@ -1,0 +1,10 @@
+setup.py
+ssolano586/_init_.py
+ssolano586/script_prueba.py
+ssolano586/unsupervised.py
+ssolano586.egg-info/PKG-INFO
+ssolano586.egg-info/SOURCES.txt
+ssolano586.egg-info/dependency_links.txt
+ssolano586.egg-info/not-zip-safe
+ssolano586.egg-info/requires.txt
+ssolano586.egg-info/top_level.txt
